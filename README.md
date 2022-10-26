@@ -1,2 +1,2 @@
 # ChallengeFour
-Using javascript and bootstrap to make a quiz
+Using javascript and html to make a quiz
